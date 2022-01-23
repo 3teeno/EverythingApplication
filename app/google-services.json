@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719376860694",
+    "project_id": "everythingapplication-f181b",
+    "storage_bucket": "everythingapplication-f181b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719376860694:android:5e24b07b3e9b2fa7399737",
+        "android_client_info": {
+          "package_name": "com.example.everythingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719376860694-5nppetnfudt9t0r97p37c76nv8hh1bv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvLy_ZG4ZtXWtnH1_tjWYKcFpzIFlbbWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719376860694-5nppetnfudt9t0r97p37c76nv8hh1bv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
